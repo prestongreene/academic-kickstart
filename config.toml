@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Data-Sciencing"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -170,7 +170,7 @@ defaultContentLanguageInSubdir = false
     'Manuscript',  # 3
     'Report',  # 4
     'Book',  # 5
-    'Book section'  # 6
+    'Book chapter'  # 6
   ]
 
   # Configuration of talk pages.
@@ -217,12 +217,12 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:preston.greene@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/prestongreene"
 
   [[params.social]]
     icon = "google-scholar"
@@ -251,12 +251,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Blog"
   url = "#blog"
-  weight = 3
+  weight = 2
 
 [[menu.main]]
   name = "Projects"
