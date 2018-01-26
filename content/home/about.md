@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Behavioral Science",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Behavior Change",
+    "Implicit Cognition"
   ]
 
 # List your qualifications (such as academic degrees).
