@@ -1,6 +1,6 @@
 +++
 title = "A Proactive Telephone-Delivered Risk Communication Intervention for Smokers Participating in Lung Cancer Screening: A Pilot Feasibility Trial"
-date = 2018-09-01T00:00:00
+date = 2018-08-01T00:00:00
 draft = false
 
 # Authors. 
