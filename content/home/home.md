@@ -1,5 +1,5 @@
 +++
-# Hero widget.
+# Home header widget.
 widget = "hero"
 active = true
 date = 2017-10-15T00:00:00
@@ -14,14 +14,14 @@ weight = 3
 [header]
   overlay_color = "#666"  # An HTML color value.
   overlay_img = "stephen-dawson-670638-unsplash.jpg"  # Image path relative to your `static/img/` folder.
-  overlay_filter = 0.5  # Darken the image. Value in range 0-1.
+  overlay_filter = 0.25  # Darken the image. Value in range 0-1.
 
 # Call to action button (optional).
 #   Activate the button by specifying a URL and button label below.
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
-[cta]
-  url = "./post/"
-  label = '<i class="fa fa-book-open"></i> Read recent posts Now'
+# [cta]
+#  url = "./post/"
+#  label = '<i class="fa fa-book-open"></i> Read recent posts Now'
 +++
 
-:rocket:
+This is the homepage and blog of Preston Greene. For more about me, see [here](content/home/about). 
