@@ -24,4 +24,4 @@ weight = 3
 #  label = '<i class="fa fa-book-open"></i> Read recent posts Now'
 +++
 
-This is the homepage and blog of Preston Greene. For more about me, see [here](content/home/about). 
+This is the homepage and blog of Preston Greene. For more about me, see [here](./about). 
