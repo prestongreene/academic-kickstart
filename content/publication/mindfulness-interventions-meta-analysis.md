@@ -39,7 +39,7 @@ projects = ["mindfulness"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["mindfulness", "meta-analysis"]
+tags = ["mindfulness", "meta-analysis", "mental health"]
 
 # Links (optional).
 url_pdf = "https://reader.elsevier.com/reader/sd/4C7B074494F4482879F3436221DA599776D6EBA3EC6588F4A4F12BFC272D362B4CB22040A988D5B02095594641691B4F"
@@ -64,8 +64,8 @@ highlight = false
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-# [header]
-# image = "clin-psych-review-meta.jpg"
+ [header]
+ image = "clin-psych-review-meta.jpg"
 # caption = ""
 
 +++
