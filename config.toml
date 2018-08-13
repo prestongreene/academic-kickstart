@@ -64,7 +64,7 @@ defaultContentLanguageInSubdir = false
   office_hours = ""
   phone = ""
   skype = ""
-  telegram = ""
+  twitter = "preston_greene"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -223,6 +223,11 @@ defaultContentLanguageInSubdir = false
     icon = "envelope"
     icon_pack = "fa"
     link = "mailto:preston.greene@gmail.com"
+    
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/prestongreene"
 
   [[params.social]]
     icon = "twitter"
@@ -250,7 +255,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "#hero"
+  url = "#home"
   weight = 1
   
 [[menu.main]]
