@@ -9,7 +9,7 @@ title = "Mindfulness Research"
 summary = "A collection of research about the mental health benefits of mindfulness."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "lesly-juarez-30797-unsplash.jpg"
+image_preview = "lesly-juarez-307974-unsplash.jpg"
 caption = "*The present moment is filled with joy and happiness. If you are attentive, you will see it.* ― Thich Nhat Hanh. Photo by Lesly Juarez on Unsplash"
 
 # Tags: can be used for filtering projects.
