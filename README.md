@@ -1,9 +1,9 @@
 My website using the Academic theme. Created using the Academic kickstart and Netlify.
 
-**Academic** is a framework to help you create a beautiful website quickly. Perfect for personal, student, or academic websites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes or [view the documentation](https://sourcethemes.com/academic/docs/).
-
 ## License
 
-Copyright 2017 [George Cushen](https://georgecushen.com).
+Hugo theme Copyright 2017 [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
+
+Site content Copyright 2018 Preston Greene. 
