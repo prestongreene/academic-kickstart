@@ -43,7 +43,7 @@ defaultContentLanguageInSubdir = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "ocean"
+  color_theme = "custom"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -246,7 +246,7 @@ defaultContentLanguageInSubdir = false
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
-  align_right = true
+  align_right = false
 
 [[menu.main]]
   name = "Home"
