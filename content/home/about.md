@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Behavioral Science",
     "Behavior Change",
-    "Implicit Cognition"
+    "Mindfulness",
+    "Quantitative Analysis Methods"
   ]
 
 # List your qualifications (such as academic degrees).
