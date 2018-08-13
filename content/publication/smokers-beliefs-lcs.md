@@ -1,10 +1,10 @@
 +++
 title = "Smokers’ Inaccurate Beliefs about the Benefits of Lung Cancer Screening"
-date = 2018-09-01T00:00:00
+date = 2018-08-13T00:00:00
 draft = false
 
 # Authors. 
-authors = ["Jaimee L. Heffner", "Paul Krebs", "Hannah Johnson", "Preston A. Greene",  "Deborah E. Klein", "Laura C. Feemster",  "Christopher G. Slatore", "David H. Au", "Steven B. Zeliadt"]
+authors = ["Jaimee L. Heffner", "Paul Krebs", "Hannah Johnson", "Preston A. Greene",  "Deborah E. Klein", "Laura C. Feemster", "Christopher G. Slatore", "David H. Au", "Steven B. Zeliadt"]
 
 # Publication type.
 # Legend:
@@ -34,7 +34,7 @@ selected = false
 projects = ["smoking-lcs"]
 
 # Tags (optional).
-tags = ["smoking cessation", "lung cancer screening", "behavior change", "beliefs]
+tags = ["smoking cessation", "lung cancer screening", "behavior change", "beliefs"]
 
 # Links (optional).
 url_pdf = ""
