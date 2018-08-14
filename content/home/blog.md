@@ -5,8 +5,8 @@ widget = "posts"
 active = true
 date = "2016-04-20T00:00:00"
 
-title = "Recent Posts"
-subtitle = ""
+title = "Blog"
+subtitle = "News, musings, and unsolicited advice"
 
 # Order that this section will appear in.
 weight = 20
@@ -18,7 +18,7 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 3
 
 +++
 
